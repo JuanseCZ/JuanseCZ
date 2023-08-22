@@ -17,7 +17,7 @@ You can check out the project [here](http://leonbicicletas.rf.gd/es/).
 
 ## Contact
 
-📬 Feel free to reach out to me via email at jscz1999@hotmail.com(mailto:jscz1999@hotmail.com).
+📬 Feel free to reach out to me via email at [jscz1999@hotmail.com](mailto:jscz1999@hotmail.com).
 
 ## Portfolio
 
