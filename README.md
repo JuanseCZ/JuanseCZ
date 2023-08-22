@@ -1,4 +1,4 @@
-# Hi there, I'm Juan Sebastian Cardona 👋
+# Hi there, I'm Juan Cardona 👋
 
 Software Engineering student with a deep-rooted interest in creating efficient and user-friendly applications. I have experience working with various programming languages and technologies to develop web-based projects. Here's a bit more about me:
 
