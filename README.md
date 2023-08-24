@@ -21,11 +21,7 @@ You can check out the project [here](http://leonbicicletas.rf.gd/es/).
 
 ## Portfolio
 
-Under construction.
-<!--
-For more details about my projects and experience, please visit my portfolio at [example.com](http://www.example.com).
-
--->
+For more details about my projects and experience, please visit my portfolio at [juan-cardona.me](http://www.juan-cardona.me).
 
 Looking forward to connecting with fellow developers and enthusiasts!
 
