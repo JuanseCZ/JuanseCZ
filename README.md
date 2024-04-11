@@ -1,23 +1,29 @@
 # Hi there, I'm Juan Cardona 👋
 
-Software Engineering student with a deep-rooted interest in creating efficient and user-friendly applications. I have experience working with various programming languages and technologies to develop web-based projects. Here's a bit more about me:
+Software Development student, continuously growing as a person and future professional. With solid foundations in languages such as Java for object-oriented programming, JavaScript and PHP for web development, and Python to do a bit of everything. Always seeking new skills and knowledge relevant to modern technology. Here's a bit more about me:
 
-- 🎓 Currently pursuing a degree in Software Engineering.
-- 💻 Proficient in Java, PHP, HTML, JavaScript, Python.
-- 🐧 Comfortable with Linux and command line tools.
-- 📦 Familiar with version control using Git and containerization with Docker.
+- 🎓 Studying Software Engineering.
+- 💻 Foundations in Java, Python, PHP & JavaScript.
+- 📦 Familiar with Git, Docker and Linux/Command Line Tools.
 
 ## Projects
 
-### Web Application Project - León Bicicletas
+### Integral Website for León Bicicletas
+A solution that allows customers to view and quote a wide variety of products filtered by category, accompanied by an administrative panel for store employees in which they can keep track of the inventory of the displayed products, register customers, and perform other functions to manage the store.
 
-As part of my learning journey, completed a web application project that showcases my skills in building interactive and responsive web applications. This project was developed using a combination of HTML, Bootstrap, JavaScript and PHP. It's a website made for a small business and part of a school project. It has a catalog, a quotation tool similar to a shopping cart and CRUD System for administration.
+### MexiSpotlight
+A website whose objective is to give visibility to local businesses through a digital showcase. Businesses can register to be published with their information and be rated by users.
 
-You can check out the project [here](http://leonbicicletas.rf.gd/es/).
+### AccessGuard
+An IoT project that integrates an Arduino circuit, a Mobile App, and a Website. It consists of an IoT lock with biometric validation that sends all access data to a cloud database to interact with it through the mobile app and website.
+
 
 ## Contact
 
 📬 Feel free to reach out to me via email at [jscz1999@gmail.com](mailto:jscz1999@gmail.com).
+
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/juansecz/).
+
 
 ## Portfolio
 
