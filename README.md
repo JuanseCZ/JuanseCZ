@@ -27,7 +27,7 @@ You can also connect with me on [LinkedIn](https://www.linkedin.com/in/juansecz/
 
 ## Portfolio
 
-For more details about my projects and experience, please visit my portfolio at [juan-cardona.me](http://www.juan-cardona.me).
+For more details about my projects and experience, please visit my portfolio at [juansecz.github.io](h[ttp://www.juan-cardona.me](https://juansecz.github.io/)).
 
 Looking forward to connecting with fellow developers and enthusiasts!
 
