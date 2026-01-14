@@ -1,47 +1,42 @@
 # Hi there, I'm Juan Cardona 👋
 
-Software Development student, continuously growing as a person and future professional. With solid foundations in languages such as Java for object-oriented programming, JavaScript and PHP for web development, and Python to do a bit of everything. Always seeking new skills and knowledge relevant to modern technology. Here's a bit more about me:
+### DevOps Engineer | CS Engineering Student | Cloud Enthusiast
 
-- 🎓 Studying Software Engineering.
-- 💻 Foundations in Java, Python, PHP & JavaScript.
-- 📦 Familiar with Git, Docker and Linux/Command Line Tools.
+I am a DevOps Engineer currently working for a **Fortune 500 company**, bridging the gap between development and operations. I specialize in automation, cloud infrastructure, and building scalable systems.
 
-## Projects
+I am finalizing my **Computer Systems Engineering degree** in 2026 and currently deep-diving into the AWS ecosystem.
 
-### Integral Website for León Bicicletas
-A solution that allows customers to view and quote a wide variety of products filtered by category, accompanied by an administrative panel for store employees in which they can keep track of the inventory of the displayed products, register customers, and perform other functions to manage the store.
+---
 
-### MexiSpotlight
-A website whose objective is to give visibility to local businesses through a digital showcase. Businesses can register to be published with their information and be rated by users.
+### 🔭 Current Focus
+* **Certifications:** Preparing for the **AWS Solutions Architect Associate (SAA)**.
+* **Education:** Finishing my CS Engineering degree (Class of 2026).
+* **Professional:** Streamlining CI/CD pipelines and container orchestration.
 
-### AccessGuard
-An IoT project that integrates an Arduino circuit, a Mobile App, and a Website. It consists of an IoT lock with biometric validation that sends all access data to a cloud database to interact with it through the mobile app and website.
+### 🛠️ Tech Stack & Tools
 
+**DevOps & Cloud**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash Scripting](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-## Contact
+**Development**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-📬 Feel free to reach out to me via email at [jscz1999@gmail.com](mailto:jscz1999@gmail.com).
+---
 
-You can also connect with me on [LinkedIn](https://www.linkedin.com/in/juansecz/).
+### 🤝 Freelance & Collaboration
+While my main focus is my professional role, I take on **select freelance projects** that spark my curiosity or offer a unique technical challenge.
+* *Open to:* Automation scripts, Cloud setup, and Web optimization.
+* *Motivation:* Learning new tech stacks and solving unique problems.
 
+### ⚡ A Little About Me
+* **The Vibe:** My workflow is fueled by atmospheric and melancholic playlists. I believe deep focus requires a deep soundtrack. 🎧
+* **The Grind:** Committed to the philosophy of **Kaizen** (continuous self-improvement).
+* **The Fun:** When the terminal is closed, you can find me gaming or exploring new tech trends.
 
-## Portfolio
+---
 
-For more details about my projects and experience, please visit my portfolio at [juansecz.github.io](https://juansecz.github.io/).
-
-Looking forward to connecting with fellow developers and enthusiasts!
-
-<!--
-**JuanseCZ/JuanseCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
