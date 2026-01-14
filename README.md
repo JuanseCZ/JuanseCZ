@@ -43,7 +43,7 @@ While my main focus is my professional role, I take on **select freelance projec
 ---
 
 <div align="center">
-  <a href="YOUR-LINKEDIN-URL-HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/juansecz/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </div>
