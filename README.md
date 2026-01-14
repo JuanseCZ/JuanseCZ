@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | CS Engineering Student | Cloud Enthusiast
 
-I am a DevOps Engineer currently working for a **Fortune 500 company**, bridging the gap between development and operations. I specialize in automation, cloud infrastructure, and building scalable systems.
+I am a DevOps Engineer currently working for a **Fortune 500 company**, bridging the gap between development and operations. I specialize in automation, cloud infrastructure, and building scalable microservices.
 
 I am finalizing my **Computer Systems Engineering degree** in 2026 and currently deep-diving into the AWS ecosystem.
 
@@ -16,16 +16,23 @@ I am finalizing my **Computer Systems Engineering degree** in 2026 and currently
 ### 🛠️ Tech Stack & Tools
 
 **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash Scripting](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash Scripting" />
 
-**Development**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Development & Microservices**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
 
 ---
 
 ### 🤝 Freelance & Collaboration
 While my main focus is my professional role, I take on **select freelance projects** that spark my curiosity or offer a unique technical challenge.
-* *Open to:* Automation scripts, Cloud setup, and Web optimization.
+* *Open to:* Automation scripts, Cloud setup, and backend optimization.
 * *Motivation:* Learning new tech stacks and solving unique problems.
 
 ### ⚡ A Little About Me
@@ -36,7 +43,7 @@ While my main focus is my professional role, I take on **select freelance projec
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-URL" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  <a href="YOUR-LINKEDIN-URL-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
 </div>
